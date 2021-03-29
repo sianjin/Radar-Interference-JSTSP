@@ -21,6 +21,8 @@ Folders:
 2)  MAC: MAC layer simulation scripts for the 4 interference mitigation schemes: UA-RFDM, UA-FH, UA-RFDM-PC, UA-FH-PC.
 
 	 Multiple access capacity VS density performance of the 4 interference mitigation schemes is obtained by the file capacity.m. 
+	 
 	 Probability of target misdetection VS density performance of the 4 interference mitigation schemes is obtained by the file pmd.m. 
+	 
 	 Multiple access capacity VS probability of target misdetection performance of the 4 interference mitigation schemes is obtained by the file capacityVspmd.m. 
   
